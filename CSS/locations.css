@@ -1,0 +1,42 @@
+.banner {
+    background-image: url(./img-locations-background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    max-width: 1200px;
+    height: 500px;
+    margin: 40px auto auto auto;
+    margin-top: 100px;
+    padding-top: 85px;
+    padding-bottom: 35px;
+}
+
+.texto {
+    font-size: 43px;
+    font-weight: bold;
+}
+
+.container {
+    max-width: 1050px;
+    margin: 15px auto auto auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.enderecos {
+    height: 300px;
+    padding: 20px;
+    flex-basis: 30%;
+    box-sizing: border-box;
+    background-color: black;
+    opacity: 1;
+}
+
+.enderecos h3 {
+    margin-top: 16px;
+    margin-bottom: 32px;
+}
+
+p {
+    margin: 32px;
+}

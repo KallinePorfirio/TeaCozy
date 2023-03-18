@@ -1,0 +1,19 @@
+.titulo {
+    max-width: auto;
+    height: 200px;
+    margin-top: 24px;
+    text-align: center;
+}
+
+.contato {
+    margin: 56px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.copyright {
+    margin-top: 150px;
+    text-align: left;
+    font-weight: bold;
+    margin-left: 20px;
+}

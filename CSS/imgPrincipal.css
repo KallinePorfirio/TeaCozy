@@ -1,0 +1,21 @@
+.imgPrincipal {
+    background-image: url(./img-mission-background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 700px;
+    max-width: 1200px;
+    align-items: center;
+    display: flex;
+    margin: auto;
+}
+
+.faixa {
+    margin-top: 40px;
+    background-color: black;
+    width: 1200px;
+    height: 110px; 
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+    gap: 16px;
+}
